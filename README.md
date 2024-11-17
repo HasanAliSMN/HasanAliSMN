@@ -2,9 +2,8 @@
 ## This is a **test**
 ## its about *testing*
 
-1. why test
-   *love test
-   *why hate testing
-3. why not test
-   *hate test
-   *why test just do
+1. test good
+2. test nice
+3. test _italic_
+
+[WE HAVE TEST LINKS WOAAA](https://www.google.com/search?q=test&oq=test&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAtIBBzQ3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
