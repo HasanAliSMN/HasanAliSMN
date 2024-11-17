@@ -22,5 +22,5 @@ _puttin' the fires in the bag for ai..._
 
 [WE HAVE TEST LINKS WOAAA](https://www.google.com/search?q=test&oq=test&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAtIBBzQ3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
-<img src="./FzqkmlHWAAIzY8N.png" alt="drawing" width="400" height="100%"/>
+<img src="./FzqkmlHWAAIzY8N.png" alt="drawing" width="400px;" height="100%;"/>
     
