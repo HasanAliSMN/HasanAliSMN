@@ -6,6 +6,16 @@
 2. test nice
 3. test _italic_
 
+```epic lang
+
+fUNC put(Fries f, Bag b) -> bool:
+    UNC.puthefriesinthebag(f, b)
+    log.m("fires in the bag")
+    return true
+//This is a comment
+
+```
+
 [WE HAVE TEST LINKS WOAAA](https://www.google.com/search?q=test&oq=test&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAtIBBzQ3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
 *we got style tho
