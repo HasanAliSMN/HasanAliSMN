@@ -14,8 +14,8 @@ fUNC put(Fries f, Bag b) -> bool:
     return true
 ```
 # About Epic Lang
-Semicolons aren't mandatory
-Its about putting the fries in the bag when ai takes over
+Semicolons aren't mandatory <br>
+Its about putting the fries in the bag when ai takes over <br>
 _puttin' the fires in the bag for ai..._
 
 
