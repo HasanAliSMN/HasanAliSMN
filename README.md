@@ -10,9 +10,9 @@
 
 fUNC put(Fries f, Bag b) -> bool:
     UNC.puthefriesinthebag(f, b)
+    UNC.RetirementTime -= 10;
     log.m("fires in the bag")
     return true
-//This is a comment
 
 ```
 
