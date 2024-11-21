@@ -6,8 +6,6 @@
 2. test nice
 3. test _italic_
 
-- [] lop
-
 ```epic lang
 fUNC put(Fries f, Bag b) -> bool:
     UNC.puthefriesinthebag(f, b)
